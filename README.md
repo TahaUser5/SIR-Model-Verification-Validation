@@ -2,7 +2,7 @@
 
 A Python-based SIR (Susceptible-Infected-Recovered) epidemic model simulator with formal property verification, exhaustive parameter tuning, and predictive validation against real-world Influenza data.
 
-> **Course:** CS-501 Introduction to Computational Modelling  
+> **Course:** Introduction to Computational Modelling  
 > **Institution:** University of the Punjab, College of Information Technology  
 > **Instructor:** Dr. Syed Waqar ul Qounain Jaffry
 
